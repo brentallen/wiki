@@ -12,6 +12,9 @@ class ArticlesController < ApplicationController
         
     end
     
+    def about
+    end
+    
     def show
     end
     
